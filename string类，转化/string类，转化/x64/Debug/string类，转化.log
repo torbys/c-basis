@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\code_cpp\语法测试\string类，转化\string类，转化\源.cpp(124,12): warning C4311: “reinterpret_cast”: 从“int (__cdecl *)(int,int)”到“int”的指针截断
+E:\code_cpp\语法测试\string类，转化\string类，转化\源.cpp(124,12): warning C4302: “reinterpret_cast”: 从“int (__cdecl *)(int,int)”到“int”截断
+  string类，转化.vcxproj -> E:\code_cpp\语法测试\string类，转化\x64\Debug\string类，转化.exe
